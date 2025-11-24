@@ -47,12 +47,6 @@ He formado parte de proyectos empresariales enfocados en funcionalidad, rendimie
 
 ---
 
-## 📊 Lenguajes Más Utilizados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repluis)
-
----
-
 ## 💡 Sobre mí
 Soy una persona **proactiva, responsable y enfocada en la mejora continua**. Me gusta contribuir al trabajo en equipo, aportar ideas y transformar necesidades en soluciones digitales eficientes.
 
