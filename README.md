@@ -11,7 +11,7 @@
 
 | Backend | Frontend | Móvil | Bases de Datos | Otros |
 |--------|----------|-------|----------------|-------|
-| PHP, Node.js, Java, .NET Framework | JavaScript | Kotlin, Flutter, Dart | MySQL, PostgreSQL, Oracle | Python |
+| PHP, Node.js, Java, .NET Framework | JavaScript, Vue.js | Kotlin, Flutter, Dart | MySQL, PostgreSQL, Oracle | Python |
 | Laravel | HTML, CSS |  | SQL Server | Git (profesional) |
 
 ---
@@ -26,6 +26,7 @@
 ## 🛠 Herramientas de trabajo
 - **Control de versiones:** Git (nivel profesional)
 - **Gestión de proyectos:** Jira
+- **Testing de APIs:** Postman
 - **Ofimática:** Excel (avanzado)
 
 ---
@@ -37,6 +38,18 @@ Experiencia desarrollando soluciones tecnológicas en:
 - 🖨️ **Aplicaciones de Escritorio**
 
 He formado parte de proyectos empresariales enfocados en funcionalidad, rendimiento y escalabilidad, trabajando con equipos multidisciplinarios y metodologías ágiles.
+
+---
+
+## 🔧 Especialidades
+- 🌐 **Manejo de APIs:** Diseño, consumo e integración de APIs REST y servicios web
+- 💰 **Sistemas Financieros:** Conocimiento en procesos, regulaciones y desarrollo de soluciones financieras
+
+---
+
+## 📊 Lenguajes Más Utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repluis&layout=compact&theme=tokyonight)
 
 ---
 
