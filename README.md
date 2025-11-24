@@ -49,7 +49,7 @@ He formado parte de proyectos empresariales enfocados en funcionalidad, rendimie
 
 ## 📊 Lenguajes Más Utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repluis&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repluis)
 
 ---
 
